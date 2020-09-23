@@ -10,7 +10,6 @@
 <body>
     <div class="all">
         <div class="lewo it">
-
             <form class='in' action="ins.php" method="POST">
                 <input class='ini' type="text" name="imie" placeholder="imie">
                 <input class='ini' type="text" name="dzial" placeholder="dzial">
